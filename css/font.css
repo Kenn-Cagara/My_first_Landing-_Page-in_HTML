@@ -1,0 +1,37 @@
+@font-face {
+  font-family: Abel;
+  src: url("/fonts/Abel/Abel-Regular.ttf");
+}
+
+@font-face {
+  font-family: Anton;
+  src: url("/fonts/Anton/Anton-Regular.ttf");
+}
+
+@font-face {
+  font-family: Josefin_Sans;
+  src: url("/fonts/Josefin_Sans/JosefinSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: Lexend;
+  src: url("/fonts/Lexend_Deca/LexendDeca-Regular.ttf");
+}
+
+@font-face {
+  font-family: livvic;
+  src: url("/fonts/Livvic/Livvic-Regular.ttf");
+}
+@font-face {
+  font-family: sans;
+  src: url("/fonts/SourceSansPro-Regular.ttf");
+}
+@font-face {
+  font-family: code;
+  src: url("/fonts/SourceCodePro-Regular.ttf");
+}
+
+@font-face {
+  font-family: dancing;
+  src: url("/fonts/DancingScript-VariableFont_wght.ttf");
+}
